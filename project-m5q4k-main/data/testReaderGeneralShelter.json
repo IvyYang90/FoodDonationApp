@@ -1,0 +1,15 @@
+{
+    "foods": [
+    {
+        "isTaken": false,
+        "name": "apple",
+        "expireDate": "2025-12-27",
+        "isAllergenic": false
+    },
+    {
+        "isTaken": true,
+        "name": "peanut icecream",
+        "expireDate": "2023-01-05",
+        "isAllergenic": true
+    }
+]}

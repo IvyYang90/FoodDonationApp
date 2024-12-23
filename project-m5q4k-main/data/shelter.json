@@ -1,0 +1,14 @@
+{"foods": [
+    {
+        "isAllergenic": false,
+        "isTaken": true,
+        "name": "rice",
+        "expireDate": "2029-12-20"
+    },
+    {
+        "isAllergenic": true,
+        "isTaken": false,
+        "name": "peanut icecream",
+        "expireDate": "2029-12-20"
+    }
+]}
